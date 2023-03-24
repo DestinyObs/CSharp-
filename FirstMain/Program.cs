@@ -6,7 +6,7 @@ class MyNamee
 {
     static void Main()
     {
-        /* Console.WriteLine("Please enter your FirstName:");
+         Console.WriteLine("Please enter your FirstName:");
          string FirstName = Console.ReadLine();
 
          Console.WriteLine("Please enter your LastName:");
@@ -151,7 +151,7 @@ class MyNamee
         int i = Convert.ToInt32(f);
 
         Console.WriteLine(i);
-        */
+        
 
         //compiler will not do implicit conversion
         //explicit converter
@@ -179,14 +179,14 @@ class MyNamee
 
         //Array
 
-        /*string input = "Hello World!";
+        string input = "Hello World!";
         char[] chars = input.ToCharArray();
         Array.Reverse(chars);
         string reversed = new string(chars);
         Console.WriteLine(reversed);*/
 
 
-        /*int[] EvenNum = new int[15];
+        int[] EvenNum = new int[15];
 
         EvenNum[0] = 0;
         EvenNum[1] = 2;
@@ -216,10 +216,11 @@ class MyNamee
 
         Console.WriteLine("Enter Your age");
         string Age = Console.ReadLine();
-        */
+        
 
         //bool age = int.TryParse(Age, out aGe)
-        /* int age = int.Parse(Age);
+        
+        int age = int.Parse(Age);
         string[] question = new string[100];
         string[] answers = new string[100];
         if (age < 18)
@@ -243,13 +244,13 @@ class MyNamee
             Console.WriteLine($"{i+1}. {question[i]}");
 
         }
-        */
+        
 
         /// Summary
         /// to comment the functionalities of a class
         /// 
 
-        /*Console.WriteLine("Please Enter a Number\n");
+        Console.WriteLine("Please Enter a Number\n");
 
         int UserNum = int.Parse(Console.ReadLine());
 
@@ -280,11 +281,11 @@ class MyNamee
         else
         {
             Console.WriteLine("Balablue");
-        }*/
+        }
 
 
 
-        /*
+        
         if (num == 10)
         {
             Console.WriteLine("Your number is 10");
@@ -301,9 +302,9 @@ class MyNamee
         {
             Console.WriteLine("Your number is niether 10, 20 or 30");
         }
-        */
+        
 
-        /*Console.WriteLine("Please Enter a number");
+        Console.WriteLine("Please Enter a number");
         int num = int.Parse(Console.ReadLine());
 
         switch(num)
@@ -320,9 +321,9 @@ class MyNamee
             default: Console.WriteLine("Your number is niether 10, 20 or 30");
                 break;
         }
-        */
+        
 
-        /*switch (num)
+        switch (num)
         {
             case 10:
             case 20:
@@ -333,10 +334,10 @@ class MyNamee
             default:
                 Console.WriteLine("Your number is niether 10, 20 or 30");
                 break;
-        }*/
+        }
 
 
-        /*int TotalCoffeeCost = 0;
+        int TotalCoffeeCost = 0;
         string UserDecide = string.Empty;
 
         do
@@ -404,7 +405,7 @@ class MyNamee
                     Console.WriteLine("Invalid Input, Please Say Yes Or No");
                 }
             } while (UseChoice != "YES" && UseChoice != "NO");
-        } while (UseChoice == "YES");*/
+        } while (UseChoice == "YES");
 
         int[] Numbers = new int[3];
 
@@ -417,7 +418,7 @@ class MyNamee
             Console.WriteLine(j);
         }
 
-        /*2for (int k = 0; k < Numbers.Length; k++)
+        for (int k = 0; k < Numbers.Length; k++)
         {
             Console.WriteLine(Numbers[k]);
         }
@@ -427,7 +428,7 @@ class MyNamee
         {
             Console.WriteLine(Numbers[i]);
             i++;
-        }*/
+        }
 
 
    }
