@@ -1,8 +1,4 @@
 C:\Users\USER\source\repos\FirstMain 1\Learn part 3\bin\Debug\net7.0\Learn part 3.exe
-C:\Users\USER\source\repos\FirstMain 1\Learn part 3\bin\Debug\net7.0\Learn part 3.deps.json
-C:\Users\USER\source\repos\FirstMain 1\Learn part 3\bin\Debug\net7.0\Learn part 3.runtimeconfig.json
-C:\Users\USER\source\repos\FirstMain 1\Learn part 3\bin\Debug\net7.0\Learn part 3.dll
-C:\Users\USER\source\repos\FirstMain 1\Learn part 3\bin\Debug\net7.0\Learn part 3.pdb
 C:\Users\USER\source\repos\FirstMain 1\Learn part 3\obj\Debug\net7.0\Learn part 3.csproj.AssemblyReference.cache
 C:\Users\USER\source\repos\FirstMain 1\Learn part 3\obj\Debug\net7.0\Learn part 3.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\source\repos\FirstMain 1\Learn part 3\obj\Debug\net7.0\Learn part 3.AssemblyInfoInputs.cache
@@ -11,5 +7,9 @@ C:\Users\USER\source\repos\FirstMain 1\Learn part 3\obj\Debug\net7.0\Learn part 
 C:\Users\USER\source\repos\FirstMain 1\Learn part 3\obj\Debug\net7.0\Learn part 3.dll
 C:\Users\USER\source\repos\FirstMain 1\Learn part 3\obj\Debug\net7.0\refint\Learn part 3.dll
 C:\Users\USER\source\repos\FirstMain 1\Learn part 3\obj\Debug\net7.0\Learn part 3.pdb
+C:\Users\USER\source\repos\FirstMain 1\Learn part 3\bin\Debug\net7.0\Learn part 3.deps.json
+C:\Users\USER\source\repos\FirstMain 1\Learn part 3\bin\Debug\net7.0\Learn part 3.runtimeconfig.json
+C:\Users\USER\source\repos\FirstMain 1\Learn part 3\bin\Debug\net7.0\Learn part 3.dll
+C:\Users\USER\source\repos\FirstMain 1\Learn part 3\bin\Debug\net7.0\Learn part 3.pdb
 C:\Users\USER\source\repos\FirstMain 1\Learn part 3\obj\Debug\net7.0\Learn part 3.genruntimeconfig.cache
 C:\Users\USER\source\repos\FirstMain 1\Learn part 3\obj\Debug\net7.0\ref\Learn part 3.dll
