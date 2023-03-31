@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\bin\Debug\net7.0\Structure in C and above.exe
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\bin\Debug\net7.0\Structure in C and above.deps.json
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\bin\Debug\net7.0\Structure in C and above.runtimeconfig.json
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\bin\Debug\net7.0\Structure in C and above.dll
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\bin\Debug\net7.0\Structure in C and above.pdb
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\Structure in C and above.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\Structure in C and above.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\Structure in C and above.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\Structure in C and above.AssemblyInfo.cs
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\Structure in C and above.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\Structure in C and above.dll
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\refint\Structure in C and above.dll
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\Structure in C and above.pdb
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\Structure in C and above.genruntimeconfig.cache
+C:\Users\USER\source\repos\FirstMain 1\Structure in C and above\obj\Debug\net7.0\ref\Structure in C and above.dll
