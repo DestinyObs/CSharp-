@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\bin\Debug\net7.0\Begin from overriding and hiding.exe
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\bin\Debug\net7.0\Begin from overriding and hiding.deps.json
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\bin\Debug\net7.0\Begin from overriding and hiding.runtimeconfig.json
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\bin\Debug\net7.0\Begin from overriding and hiding.dll
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\bin\Debug\net7.0\Begin from overriding and hiding.pdb
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\Begin from overriding and hiding.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\Begin from overriding and hiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\Begin from overriding and hiding.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\Begin from overriding and hiding.AssemblyInfo.cs
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\Begin from overriding and hiding.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\Begin from overriding and hiding.dll
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\refint\Begin from overriding and hiding.dll
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\Begin from overriding and hiding.pdb
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\Begin from overriding and hiding.genruntimeconfig.cache
+C:\Users\USER\source\repos\FirstMain 1\Begin from overriding and hiding\obj\Debug\net7.0\ref\Begin from overriding and hiding.dll

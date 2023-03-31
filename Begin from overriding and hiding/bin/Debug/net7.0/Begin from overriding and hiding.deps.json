@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Begin from overriding and hiding/1.0.0": {
+        "runtime": {
+          "Begin from overriding and hiding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Begin from overriding and hiding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
