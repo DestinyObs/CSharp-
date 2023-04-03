@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\bin\Debug\net7.0\Multiple class inheritance.exe
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\bin\Debug\net7.0\Multiple class inheritance.deps.json
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\bin\Debug\net7.0\Multiple class inheritance.runtimeconfig.json
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\bin\Debug\net7.0\Multiple class inheritance.dll
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\bin\Debug\net7.0\Multiple class inheritance.pdb
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\Multiple class inheritance.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\Multiple class inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\Multiple class inheritance.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\Multiple class inheritance.AssemblyInfo.cs
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\Multiple class inheritance.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\Multiple class inheritance.dll
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\refint\Multiple class inheritance.dll
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\Multiple class inheritance.pdb
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\Multiple class inheritance.genruntimeconfig.cache
+C:\Users\USER\source\repos\FirstMain 1\Multiple class inheritance\obj\Debug\net7.0\ref\Multiple class inheritance.dll
