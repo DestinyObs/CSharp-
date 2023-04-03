@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\bin\Debug\net7.0\Explicit Interface Implimentation.exe
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\bin\Debug\net7.0\Explicit Interface Implimentation.deps.json
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\bin\Debug\net7.0\Explicit Interface Implimentation.runtimeconfig.json
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\bin\Debug\net7.0\Explicit Interface Implimentation.dll
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\bin\Debug\net7.0\Explicit Interface Implimentation.pdb
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\Explicit Interface Implimentation.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\Explicit Interface Implimentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\Explicit Interface Implimentation.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\Explicit Interface Implimentation.AssemblyInfo.cs
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\Explicit Interface Implimentation.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\Explicit Interface Implimentation.dll
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\refint\Explicit Interface Implimentation.dll
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\Explicit Interface Implimentation.pdb
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\Explicit Interface Implimentation.genruntimeconfig.cache
+C:\Users\USER\source\repos\FirstMain 1\Explicit Interface Implimentation\obj\Debug\net7.0\ref\Explicit Interface Implimentation.dll
