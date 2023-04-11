@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\bin\Debug\net7.0\when to use dictionaries.exe
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\bin\Debug\net7.0\when to use dictionaries.deps.json
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\bin\Debug\net7.0\when to use dictionaries.runtimeconfig.json
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\bin\Debug\net7.0\when to use dictionaries.dll
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\bin\Debug\net7.0\when to use dictionaries.pdb
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\when to use dictionaries.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\when to use dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\when to use dictionaries.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\when to use dictionaries.AssemblyInfo.cs
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\when to use dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\when to use dictionaries.dll
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\refint\when to use dictionaries.dll
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\when to use dictionaries.pdb
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\when to use dictionaries.genruntimeconfig.cache
+C:\Users\USER\source\repos\Method paramters\when to use dictionaries\obj\Debug\net7.0\ref\when to use dictionaries.dll
